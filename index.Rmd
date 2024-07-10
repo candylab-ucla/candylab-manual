@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "UCLA CANDY Lab Manual"
+author: "CANDY Lab Team"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
