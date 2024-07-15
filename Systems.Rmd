@@ -1,0 +1,144 @@
+# Lab Systems
+
+<hr>
+## Meetings
+
+### Lab Didactics (General Lab Meetings)
+Lab Didactics or General Lab Meetings are often held on a weekly basis and occur when someone would like to present their research, share topics of interest, practice for upcoming presentations, and the like. Attendance is not mandatory for all lab members; however, it is encouraged, especially if the topic being presented is of particular interest to you.
+
+### Staff Meetings
+Staff meetings are often between study coordinators and are used to discuss important updates on participant status, scheduling, payments, and other lab matters that require staff oversight and responsibility. 
+
+### Clinical Case Meetings 
+Clinical Case Meetings (CCM) are held to discuss participants' symptoms between staff and a Clinical Psychologist. CCMs are for interviewers to present a participant's symptoms and collaborate with the Clinical Psychologist on the patient's diagnoses.
+
+<hr>
+## Communication & System Tools
+
+### Asana 
+<ul>
+<li>Inform the lab manager that you need to be added to our Asana and send your UCLA Log-on email or personal email.</li>
+<li>Depending on your appointed role in the CANDY Lab, you will need to join specific teams and projects.</li>
+<li>Project list:</li>
+  - <b>general lab meetings:</b> Lab meeting agendas
+  - <b>MDD participants:</b> Update contact logs for MDD participants and tracking participant status
+  - <b>CTRL participants:</b> Update contact logs for Control participants and tracking participant status
+  - <b>V2 Training:</b> Training modules for USC MRI visits 
+  - <b>RA Tasks:</b> List of task description for research assistants
+  - <b>RA Training:</b> Training modules for general lab systems 
+  - <b>Recruitment:</b> Recruitment task assignments 
+  - <b>Research Coordinator Tasks:</b> Coordinator task assignments 
+  - <b>Staff Onboarding and Training:</b> Checklist and training modules all new staff members must complete (note that some training exclusions may not be of as high priority as other). 
+</ul>
+
+### Slack
+<ul>
+<li>Let the lab manager that you need to be added to the CANDY Lab work space under UCLA Life Sciences and other related channels. For Summer research assistants, we often use a dedicated slack channel for Summer RAs.</li>
+<li>Once Dr. Ho has approved the request for you to be added to the CANDY Lab work space, inform the lab manager and they can assist in adding you to specific lab channels.</li>
+<li>Channel list:</li>
+  - <b>#careerdev:</b> Resources for career development (application writing, resume building, etc.)
+  - <b>#ccm:</b> Any announcement and communications related to Clinical Case Meetings
+  - <b>#contacting-participants:</b> Messages regarding coverage and notes regarding upcoming and future assessments, participant outreach, eligibility screening calls, and updates on participants
+  - <b>#coordinator-announcements & general-staff:</b> Channel dedicated for announcements and messages relevant for all coordinators to know (make sure to also send a follow up email regarding large announcements)
+  - <b>#general:</b> Broad announcements and messages relevant to all members of the lab
+  - <b>#interviews:</b> This channel is used as the chat room for the interviewer and observer to communicate in real-time during a clinical interview. 
+  - <b>#papers:</b> Interesting research papers 
+  - <b>#random:</b> Random messages (e.g., memes, fun announcements, etc.)
+  - <b>#recruitment:</b> Flyering, outreach, and recruitment updates 
+  - <b>#research-assistant-announcement:</b> General channel for research assistant announcements and task descriptions for the day 
+  - <b>#v2-announcement:</b> Announcements specific to USC MRI visits (upcoming visits, visit summaries, V2 role assignments, etc.)
+</ul>
+
+### Box
+<ul>
+<li>Meet with the lab manager to be added onto Box.</li>
+</ul>
+
+### Google Calendar 
+<ul>
+<li>Meet with the lab manager and let them know you need access to our calendars.</li>
+<li>Google Calendars list:</li>
+  - <b>CANDY Lab:</b> General meetings
+  - <b>CANDY Lab Member Availability:</b> For staff use to indicate availability 
+  - <b>CANDY Lab RA Calendar:</b> For research assistants to use to indicate availability
+  - <b>TIGER Assessments:</b> To indicate time of study visits, eligibility screening calls, consent calls, etc. using TIGER ID naming system 
+  - <b>CANDY Lab Calls:</b> Automatically updating after booking brief calls (Eligibility screeners, Follow ups, MRI pre-screener, etc.) through Calendly (note that participant names will be visible on this calendar)
+  - <b>CANDY Lab Testing Rooms:</b> Use calendar when booking time for testing room use
+  - <b>TIGER Assessments - Staff Only:</b> Automatically updating after booking study visits (Consents, V1, V2, Follow Ups) through Calendly (note that participant names will be visible on this calendar)
+</ul>
+
+### Zoom Phone 
+<ul>
+<li>Send an email to Tyler Tuione (tuione@psych.ucla.edu) requesting Zoom phone access.</li>
+<li>In the email, Make sure to include you Full Name, Email, and UID in the message for further clarification. You will receive an email from a Life Sciences IT with further instructions on how to add Zoom phone to your existing Zoom account.</li>
+</ul>
+
+### Google Voice
+<ul>
+Reach out to the lab manager for access to Google Voice.
+</ul>
+
+### CANDY Lab Gmail 
+<ul>
+To access the lab email, visit the *Lab System Resources Document* for more information. 
+</ul>
+
+<hr>
+## Recruitment
+For more information, review the [Recruitment MOP](https://ucla.box.com/s/zd54dp0ly2d23q907dbz91zn917lric8)
+
+<hr>
+## Study Protocol & Data Management 
+
+### WebIRB
+<ol>
+<li>To create a WebIRB account, you must have a UCLA Log-on ID. If you do not have one, visit this link to register: https://accounts.iam.ucla.edu/register</li>
+<li>To request an account, email the following information to webIRBHelp@research.ucla.edu:</li>
+- Your UCLA Logon ID - (Verify your UCLA Logon ID here: https://accounts.iam.ucla.edu/lookup)
+- Your UCLA UID# (9 digit #)
+- Your full name: 
+  - First 
+  - Middle 
+  - Last 
+- Your email address
+- Your UCLA department and division 
+<ol>
+
+### REDCap
+<ol>
+<li>To create your REDCap account, reach out to Dr. Ho to put in a request to Martin (mylai@mednet.ucla.edu)</li>
+<li>In your message, make sure you attach your completed [REDCap System Access Request Form](https://www.ctrc.medsch.ucla.edu/ctsi/redcap_access.pdf) along with your CITI HIPAA certificate. </li>
+<li>Once your account has been created, you will receive an email confirmation with your Username and Temporary Password.</li>
+<li>To finish setting up your account, log into the [REDCap Website](https://www.ctrc.medsch.ucla.edu/ctsi/access.aspx?reg=MhWaidkCxvE%3D&valid=Ushcxsmj8vploSCXLJA+Vg%3D%3D) and enter your Username and Temporary Password. You will be asked to change the Temporary Password. After this, you will then be able to access the project surveys and interviews on REDCap.</li>
+<ol>
+
+### Hoffman
+<ol>
+<li>To obtain a Hoffman User account, visit the IDRE website at https://www.idre.ucla.edu/hoffman2/access and follow the instructions on filling out the account request form.</li>
+<li>Once your account has been approved, you will receive an email with your username and temporary password.</li>
+<li>You may then connect to the Hoffman2 cluster using a Secure Shell (SSH) client. On Windows, you can access the SSH client via GUI by downloading MobaXterm or use a program like PuTTY/Cyberduck on Mac.</li>
+</ol>
+
+<hr>
+## Equipment
+
+### Printer
+<b>Accessing the lab printer</b>
+<ol>
+<li>Ensure that the printer is turned on and connected to UCLA Wi-Fi.</li>
+<li>On your phone or laptop, open settings and connect to the printer's Wi-Fi (the Wi-Fi name should match the printer name.</li>
+<li>Enter the printer's Wi-Fi password. For more information, refer to the [Master MOP](https://ucla.box.com/s/1zwxrhn5rllejj711h8e1dgvmxvzw2od)</li>
+</ol>
+
+### Lab Desktops & Laptops
+<ul>
+<li>When using a lab laptop, i-Pad, or desktop, make sure the device is connected to eduroam. In other cases, make sure that the device is backed up with the appropriate security protocol recommended by the UCLA IT department (e.g., Cisco VPN, anti-virus, firewall, software updates, password protection, etc.).</li>
+<li>Once you have finished using the lab's desktop, i-Pad, or laptop, make sure to log out of your account before locking the device.</li>
+<li>Before you leave, make sure that all lab laptops and i-Pads are plugged in and charging.</li>
+<ul>
+
+### Recycle & Waste
+Please refrain from disposing of food and liquid items in the lab trashcans. The lab trashcans are designated for non-perishable disposals, such as paper and plastic items without food or liquid residue. Food and liquid waste should be placed in the larger trashcans conveniently located just outside the lab door in the hallway. 
+
+### -80°C and Cousin's Center Freezers
+For more information, review the [Biospecimen MOP](https://ucla.box.com/s/srf1t5egm0oqvdcj24eknowg4w766d6x)

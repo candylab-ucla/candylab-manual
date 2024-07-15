@@ -1,0 +1,63 @@
+# TIGER R01 Training Modules
+
+## Introduction to TIGER R01
+<ol>
+<li>Read TIGER R01 Protocol Paper.</li>
+<li>Complete RA Exclusion Criteria Written Assignment.</li>
+<li>Review TIGER R01 Study Design PPT.</li>
+<li>Review TIGER R01 Timepoint visualization.</li>
+<li>Review TIGER R01 Measure visualizations.</li>
+<li>Quiz: TIGER R01 Protocol.</li>
+</ol>
+
+## Recruitment 
+<ol>
+<li>Review Recruitment MOP.</li>
+<li>Review TIGER FAQs document.</li>
+<li>Set-up and post on recruitment social media profiles.</li>
+<li>Complete in-lab recruitment posting tasks.</li>
+<li>Complete off-campus recruitment tasks.</li>
+<li>Review how to use recruitment tracker.</li>
+</ol>
+
+## Consent Calls
+<ol>
+<li>Read all consent & assent forms.</li>
+<li>Observe a consent call and conduct a mock consent with another lab member.</li>
+<li>Conduct control consent call with coordinator direct supervision.</li>
+<li>Conduct MDD consent call with coordinator direct supervision.</li>
+<li>Quiz: Understanding of consent procedures.</li>
+</ol>
+
+## Data Management 
+<ol>
+<li>Review all data management (pre-V1, V1, and V2) MOPs and trackers.</li>
+<li>V1 and V2 Data Checks on REDCap.</li>
+<li>Complete data management tasks under supervision.</li>
+<li>Quiz: Trackers, CRFs, Subject Data Folders.</li>
+</ol>
+
+## Participant Scheduling 
+<ol>
+<li>Complete portions of V1 and V2 scheduling CRF with close supervision.</li>
+<li>Call and schedule at least two participant visits (with supervision).</li>
+<li>Complete V1 and V2 Scheduling CRF independently with coordinator review (repeat as needed).</li>
+<li>Quiz: Understanding of scheduling procedures.</li>
+</ol>
+
+## Eligibility Screener Calls 
+<ol>
+<li>Review eligibility screener MOP and script.</li>
+<li>Watch KSADS Training videos.</li>
+<li>Observe REDCap notes for during an eligibility screener call.</li>
+<li>Individual and group mock eligibility screeners.</li>
+</ol>
+
+## V2 Trier Judge & Admin RA
+<ol>
+<li>TSST training.</li>
+<li>Autovoxel quiz.</li>
+<li>Biospecimen collection training.</li>
+<li>Coggies demonstration training.</li>
+<li>Review select tasks from V2 CRF.</li>
+</ol>

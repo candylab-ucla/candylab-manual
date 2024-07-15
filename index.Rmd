@@ -1,9 +1,41 @@
 --- 
 title: "UCLA CANDY Lab Manual"
-author: "CANDY Lab Team"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Introduction
+![ ](/Users/tiffany/Downloads/CANDYlogo.png){width=250px}
+<hr>
 
+## Welcome to the CANDY Lab
+
+Welcome to the Cognition, Affect, and Neurodevelopment in Youth Lab! Here at the CANDY Lab, we understand that research can be challenging, but we believe that through teamwork, curiosity, and creativity, we can push the boundaries of science together. Here are a few ways you can contribute to our mission: 
+
+- <b> Do work that you are proud of!</b> Approach your tasks with an attention to detail and avoid rushing them. Plan ahead, prioritize triple-checking your work, and have a lab member review it for added confidence.  
+- <b> Be respectful.</b> Respect our participants and be mindful of the time they are taking to help us with our studies. It is important to remember that our participants are the ones what keep the lab running, so please respect their time, identity, culture, belief, religion, and political options. Additionally, respect your lab members. Respect their time and identity, strengths and weaknesses, respect their desire for quiet is they need it, and respect their request for kindness and support.
+- <b> Be responsible.</b> Take ownership, avoid carelessness, and admit mistakes. We all understand that mistakes happen, but when they do, acknowledge them, inform necessary personnel, and learn from the experience to prevent it from happening again.
+- <b> Be communicative. </b> If you are having issues with communicating with lab members, tell someone. You are welcome to talk directly to the person or talk to Dr. Ho and she may be able to intervene on your behalf.  
+- <b> Be proactive. </b> If you notice issues that can be addressed, take the initiative to address them! We welcome all suggestions related to building more effective and efficient systems to stay organized and tackle difficult problems. 
+- <b> Take care of yourself! </b> Science is hard, and research is hard. There will be times where you make mistakes, but it important that you learn from them. If you need support in these matters, please reach out to Sara, Tiff, and/or Dr. Ho. 
+
+## Lab Spaces
+We are located in the UCLA Psychology Building, on Floor A (basement level). 
+<p></p>
+<b> Address:</b> 502 Portola Plaza, Los Angeles, CA 90095
+<p></p>
+<b> Main Office:</b> Room A332
+<p></p>
+<b>Meeting Room:</b> Room A347
+
+## Contact Us
+<b> Principal Investigator</b> 
+<p></p>
+Tiffany C. Ho: tiffanycho@g.ucla.edu 
+<p></p>
+<b> Lab Managers</b> 
+<p></p>
+Sara Wong: sara.wong@psych.ucla.edu
+<p></p>
+Tiff Widjaja: twidjaja@psych.ucla.edu 
+<p></p>
+<b> CANDY Lab Email: </b> uclacandylab@ucla.edu 

@@ -1,0 +1,89 @@
+# TIGER R01 Protocols
+<hr> 
+
+## Master MOP 
+Link to TIGER R01 Master MOP: https://ucla.box.com/s/1zwxrhn5rllejj711h8e1dgvmxvzw2od. 
+<hr> 
+
+## Ethics
+### Eligibility Screeners
+<ul>
+<li>[MDD Eligibility Screener Script](https://ucla.box.com/s/0j3udxyvx0enhpecextpmnfxt614yz1u)</li>
+<li>[CTL Eligibility Screener Script](https://ucla.box.com/s/n2d3iyzmr7q65z56w7r37b0t0efkqh3f)</li>
+<li>[TIGER Eligibility Templates](https://ucla.box.com/s/v51eszviscxgrmeddwi5d97n1tplgscc)</li>
+<li>For more information about the Eligibility Screener process, visit the [Screeners & Consents folder](https://ucla.box.com/s/5cyfsh6ht314lgsj0skidjmn57cl18bs) in Box.</li>
+</ul>
+
+### Informed Consent Calls 
+<ul>
+<li>[Informed Consent MOP](https://ucla.box.com/s/2zta9390nzcu60pzk9ijqgjncoapwnrk)</li>
+<li>[Informed Consent Script Adult Participant](https://ucla.box.com/s/8ael92lk5kn3cvqf423ljpg52xhn5zny)</li>
+<li>[Informed Assent and Parent Consent Script](https://ucla.box.com/s/ojsrx5ocbnwnd9mmnds12y88ueczamdb)</li>
+<li>Link to the Box folder with current and approved [Consent & Assent Forms](https://ucla.box.com/s/s3zoqwswkoispcmgpgrmev4w2csg5swl).</li>
+</ul>
+<hr> 
+
+## Recruitment
+<ul>
+<li>[Recruitment MOP](https://ucla.box.com/s/zd54dp0ly2d23q907dbz91zn917lric8)</li>
+<li>[TIGER R01 FAQ](https://ucla.box.com/s/i7canz0ot2r03ca2o2q53s55yj3dzoyf)</li>
+<li>[IRB Approved Recruitment Materials](https://ucla.box.com/s/myzyd5d3woclzps87opf5zd244mcyeik)</li>
+<li>[TIGER Recruitment & Outreach Tracker](https://ucla.box.com/s/kvxdv5ysw6s00uydh5bpu6p537p4xxks)</li>
+<li>Link to the Box folder with [Recruitment Training & Materials](https://ucla.box.com/s/mow4yg4lz6ftx1evkz64mucgya39lhj2).</li>
+</ul>
+<hr> 
+
+## Data Management
+### Pre-Eligibility & Consent
+<ul>
+<li>Visit the Master TIGER MOP and navigate to [Interest Form and Screening & Eligibility Criteria](https://ucla.box.com/s/1zwxrhn5rllejj711h8e1dgvmxvzw2od).</li>
+<li>[Updating the Eligibility Tracker and Contacting Participants](https://ucla.box.com/s/tbm2w58eaw42ymxjsbxn4vz0gjo68xuo) Video Tutorial.</li>
+<li>[Scheduling CRFs](https://ucla.box.com/s/yiyegmnb5mkkgxjmxply13to9fwp7fgw) Video Tutorial.</li>
+<li>[Eligibility CRFs](https://ucla.box.com/s/7k6u9rfyfd0uzynhuh5mkfotrvfhvctw) Video Tutorial.</li>
+<li>[Documenting New Interested Participants MOP](https://ucla.box.com/s/b5si7w9tuxosr6ywf0ng7t3gx1el4ynd).</li>
+<li>[Participant Status Tracking MOP - IN PROGRESS ](https://ucla.box.com/s/vqnthq0296zuja7g365k2k6s89md9zt4).</li>
+</ul>
+
+### Clinical Interview (V1) 
+<ul>
+<li>[Post Interview CRFs (pt. 1)](https://ucla.box.com/s/cijxpxopfom6wydlisw9jeqownz1f1hh) Video Tutorial.</li>
+<li>[Post Interview CRFs (pt. 2)](https://ucla.box.com/s/2vrt9rzgu28ia2y3111l4g74hfc1jzfk) Video Tutorial.</li>
+</ul>
+
+### MRI Visit (V2)
+Video tutorial creation in progress.
+<hr> 
+
+## Clinical Interviews
+<ul>
+<li>[Adult Clinical Interview MOP and Script](https://ucla.box.com/s/iwua2mhwgy1d25wkeeiq3axefnjidpbi)</li>
+<li>[Child Clinical Interview MOP and Script](https://ucla.box.com/s/p0piihdt9tt8m3e5s9k5fj9gq45upbi2)</li>
+<li>[Parent Clinical Interview MOP and Script](https://ucla.box.com/s/vq1qt0dnqb37019wq8g2zvin5m7ggjow)</li>
+<li>[KSADS Interview Coding MOP](https://ucla.box.com/s/ob2o5fm0bpmtvkdxutfzysz9b9wwi5bc)</li>
+<li>[Follow-Up ADULT Clinical Interview MOP and Script](https://ucla.box.com/s/ldw3yl9k8skz1g669anubifbaozhzag5)</li>
+<li>Link to the Box folder with [V1 Specific MOPs](https://ucla.box.com/s/69sdai6lx89719btjbzmy01is2edscgt).</li>
+</ul>
+<hr> 
+
+## MRI Visit Protocol
+<ul>
+<li>[V2 Master MOP](https://ucla.box.com/s/d7ik5bi1otdm1ge09b7vp06sl0n2r0zz)</li>
+<li>[MRI Phone Screener Script](https://ucla.box.com/s/jp51hpu77icde4mj1g3t7sonoqz4g0rs)</li>
+<li>[MRS Autovoxel MOP](https://ucla.box.com/s/olpcs5luusajle3gj4mm14o98prje1m4)</li>
+<li>[Hoffman Data Transfer MOP (macOS)](https://ucla.box.com/s/w3foapjadekiprosgcj79sh4720s8mix)</li>
+<li>[Transferring BELT & EEfRT Data MOP](https://ucla.box.com/s/653hf51ef2opnfzx93ipmb316w781jjs)</li>
+<li>[USC MRI Participant Brochure](https://ucla.box.com/s/u9sjw5jtpwlmyhefpzh9z6m53scwp33d)</li>
+<li>Link to the Box folder with [V2 Specific MOPs](https://ucla.box.com/s/ys6rbzews6jm4nh29pvmm02pvzsdo66l).</li>
+</ul>
+<hr> 
+
+## Payment
+<li>Link to the Box folder with [Participant Payment MOPs](https://ucla.box.com/s/qzi5vpm3o5uucec9s79sa29tdmkg0qgb).</li>
+</ul>
+<hr> 
+
+## Biospecimen Collection
+<ul>
+<li>Visit the V2 Master MOP and navigate to the [module for whole saliva and dried blood spot (DBS) collection](https://ucla.box.com/s/d7ik5bi1otdm1ge09b7vp06sl0n2r0zz).</li>
+<li>[Biospecimen MOP](https://ucla.box.com/s/srf1t5egm0oqvdcj24eknowg4w766d6x)</li>
+</ul>

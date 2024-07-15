@@ -12,3 +12,11 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active>a {
+  color: rgb(95, 158, 160);
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a {
+    color: rgb(95, 158, 160);
+}

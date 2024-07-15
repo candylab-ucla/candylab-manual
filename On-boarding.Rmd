@@ -1,0 +1,320 @@
+# On-boarding
+<hr>
+
+## General Lab Onboarding 
+As a new lab member, we have implemented systems and tools we use everyday for communication and maintenance of the flow of the lab. Below is a list of things to complete before and during your first day in the lab. Regarding your CV/Bio sketch, CITI and CANRA Training, email the lab manager your CITI certificates with their expiration dates and your CANRA completion confirmation email. 
+
+1. Review the Lab Manual 
+
+2. Complete CITI Training
+<ul> 
+<Li> CITI Good Clinical Practice Training </Li>
+<Li> CITI Human Subjects Training </Li>
+<Li> CITI HIPAA Training</Li>
+<Li> CITI Information Privacy & Security (IPS) Training </Li>
+<Li> CITI Shipping and Transport of Regulated Biological Materials (if applicable) </Li>
+</ul>
+
+3. Complete UCLA CANRA Training
+<ul>
+<li> To complete UCLA CANRA Training, follow this link: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. </li>
+</ul>
+
+4. Provide a copy of your signed CV or Bio Sketch with your signature and the date in the corner of your document.
+
+5. Reach out to the lab manager to be added on: 
+<ul> 
+<li> Lab Slack Channels </li>
+<li> Asana Study and Task Projects</li>
+<li> CANDY Lab Google Calendars </li>
+<li> Box Folders </li>
+</ul>
+
+6. Continue to follow the on-boarding process outlined in below according to your respective position. 
+
+<hr>
+
+## Faculty Collaborator
+
+1. Email the lab manager a copy of your signed CV or Bio Sketch with your signature and the date in the corner of your document. 
+
+2. Complete Required CITI Training and email the lab manager a copy of your certificates (indicate the expiration of each certificate).
+<ul> 
+<li> CITI Good Clinical Practice: Social and Behavioral Research </Li>
+<li> CITI Human Subjects Training: Social & Behavioral Researchers & Staff </li>
+<li> CITI Human Subjects Training: Biomedical Researchers & Staff </li>
+<li> CITI HIPAA Training</li>
+<li> CITI Information Privacy & Security (IPS) Training </li>
+</ul>
+
+3. Complete UCLA CANRA Training and email the lab manager the email confirming you have completed your training.
+<ul>
+<li> To complete UCLA CANRA Training, follow this link: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. </li>
+</ul>
+
+4. Attach a copy/screenshot of your California Board of Psychology License information to your on-boarding email you will send to the lab manager.
+
+5. Include your signature and initials in the Delegation of Authority Log sent via DocuSign. 
+
+6. Obtain a WebIRB account and ask the lab manager to be included in the IRB protocols.  
+<ul>
+<li> Email the lab manager and include Dr. Ho in your message with your UCLA Log-on ID (Verify your UCLA Log-on ID here: https://accounts.iam.ucla.edu/lookup) </li>
+<li>UCLA UID # (9 digit #) </li>
+<li>Full name (First, Middle, Last) </li>
+<li>Email address </li>
+<li>UCLA Department and Division </li>
+</ul>
+After forwarding the necessary information to get a WebIRB account, the lab manager or Dr. Ho will forward this request to webIRBHelp@research.ucla.edu to complete you account creation. 
+
+7. Request a REDCap account (if needed).
+<ul>
+<li>Inform the lab manager that you need a REDCap account and they will provide you with a document to complete and submit to Dr. Ho and Martin (mylai@mednet.ucla.edu, REDCap contact personnel). In the your message, also attach your CITI HIPAA certification along with your completed REDCap Access Form. For more information about which REDCap PIDs to include in your REDCap Access Form, contact Dr. Ho or the lab manager.</li>
+</ul>
+
+<hr>
+
+## Postdoctoral Scholar
+
+1. Complete and submit your signed UCLA offer letter to Dr. Ho.
+
+2. Meet with HR to submit your on-boarding paperwork and complete your hiring orientation.
+
+3. Once you have completed your on-boarding with HR, create your UCLA Logon ID at the following link: https://accounts.iam.ucla.edu/#/. 
+
+4. Create a BruinCard. Click on the following link for more information on scheduling and obtaining your BruinCard: https://bruincard.ucla.edu/.
+
+5. For parking permit requests, email Tyler (tuione@psych.ucla.edu) and inquire about open lot spaces and different parking permit plans. 
+
+6. Email the lab manager a copy of your signed CV or Bio Sketch with your signature and the date in the corner of your document. 
+
+7. Complete Required CITI Training and email the lab manager a copy of your certificates (indicate the expiration of each certificate).
+<ul> 
+<li> CITI Good Clinical Practice: Social and Behavioral Research </Li>
+<li> CITI Human Subjects Training: Social & Behavioral Researchers & Staff </li>
+<li> CITI Human Subjects Training: Biomedical Researchers & Staff </li>
+<li> CITI HIPAA Training</li>
+<li> CITI Information Privacy & Security (IPS) Training </li>
+</ul>
+
+8. Complete UCLA CANRA Training and email the lab manager the email confirming you have completed your training.
+<ul>
+<li> To complete UCLA CANRA Training, follow this link: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. </li>
+</ul>
+
+9. Include your signature and initials in the Delegation of Authority Log sent via DocuSign. 
+
+10. Obtain a WebIRB account and ask the lab manager to be included in the IRB protocols.  
+<ul>
+<li> Email the lab manager and include Dr. Ho in your message with your UCLA Log-on ID (Verify your UCLA Log-on ID here: https://accounts.iam.ucla.edu/lookup) </li>
+<li>UCLA UID # (9 digit #) </li>
+<li>Full name (First, Middle, Last) </li>
+<li>Email address </li>
+<li>UCLA Department and Division </li>
+</ul>
+After forwarding the necessary information to get a WebIRB account, the lab manager or Dr. Ho will forward this request to webIRBHelp@research.ucla.edu to complete you account creation. 
+
+11. Request a REDCap account (if needed).
+<ul>
+<li>Inform the lab manager that you need a REDCap account and they will provide you with a document to complete and submit to Dr. Ho and Martin (mylai@mednet.ucla.edu, REDCap contact personnel). In the your message, also attach your CITI HIPAA certification along with your completed REDCap Access Form. For more information about which REDCap PIDs to include in your REDCap Access Form, contact Dr. Ho or the lab manager.</li>
+</ul>
+
+<hr>
+
+## Graduate Student
+
+1. Send the lab manager your UCLA Logon ID to be added onto lab systems.
+
+2. Schedule a meeting and ask the lab manager to be added to the lab:
+<ul>
+<li>Asana</li>
+<li>Slack</li>
+<li>Google calendars</li>
+<li>Box (Box browser, Box drive, Box tools)</li>
+<li>Lyft Business</li>
+<li>Mailing List</li>
+</ul>
+
+3. Complete Required CITI Training and email the lab manager a copy of your certificates (indicate the expiration of each certificate).
+<ul> 
+<li> CITI Good Clinical Practice: Social and Behavioral Research </Li>
+<li> CITI Human Subjects Training: Social & Behavioral Researchers & Staff </li>
+<li> CITI Human Subjects Training: Biomedical Researchers & Staff </li>
+<li> CITI HIPAA Training</li>
+<li> CITI Information Privacy & Security (IPS) Training </li>
+</ul>
+
+4. Complete UCLA CANRA Training and email the lab manager the email confirming you have completed your training. Follow this link to complete your CANRA training: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. 
+
+5. Reach out to Life Sciences IT (support@lifesci.ucla.edu) and set up a meeting regarding desktop set-up (Adobe Acrobat, Google chrome, Cisco VPN, connecting to the Psych printer, etc.).
+
+6. Request a REDCap account (if needed).
+<ul>
+<li>Inform the lab manager that you need a REDCap account and they will provide you with a document to complete and submit to Dr. Ho and Martin (mylai@mednet.ucla.edu, REDCap contact personnel). In the your message, also attach your CITI HIPAA certification along with your completed REDCap Access Form. For more information about which REDCap PIDs to include in your REDCap Access Form, contact Dr. Ho or the lab manager.</li>
+</ul>
+
+7. Ask the lab manager and Dr. Ho to be included in the IRB protocols and create a WebIRB account (more information on account creation under Lab System Resources tab).
+
+8. Request a DocuSign account (if needed).
+<ul>
+<li>Inform the lab manager that you need a Docusign account and email support@lifesci.ucla.edu with your name and UCLA email to request *admin access* under your DocuSign account.</li>
+</ul>
+
+9. Request a Hoffman2 account (if needed). Follow this link: https://www.hoffman2.idre.ucla.edu/Accounts/Requesting-an-account.html for more information on getting an account. Once you have reviewed the application summary and submitted the account creation form with your information, notify Dr. Ho and the lab manager.
+
+<hr>
+
+## Staff Research Associate
+
+1. Complete and submit your signed UCLA offer letter and employment contract to Dr. Ho.
+
+2. Meet with HR and submit your on-boarding hiring paperwork (CTO Election Form, Background Check Authorization, UCLA Personal Data Form).
+
+3. Schedule and complete your Livescan Background check before your official start date and inform Dr. Ho about your scheduled date. You can schedule the Livescan background check by clicking this link: https://police.ucla.edu/services/records-unit/fingerprinting.
+
+4. Once you have received your UCLA ID Number, create your UCLA Logon ID at the following link: https://accounts.iam.ucla.edu/#/. 
+
+5. Create a BruinCard. Click on the following link for more information on scheduling and obtaining your BruinCard: https://bruincard.ucla.edu/.
+
+6. For parking permit requests, email Tyler (tuione@psych.ucla.edu) and inquire about open lot spaces and different parking permit plans. 
+
+7. Reach out to IT Life Sciences (support@lifesci.ucla.edu) to confirm your UCLA Logon Email (@ucla.edu and @g.ucla.edu) and that you have access to your Psychology department email (@psych.ucla.edu).
+
+8. Email the lab manager a copy of your signed CV or Bio Sketch with your signature and the date in the corner of your document. 
+
+9. Complete Required CITI Training and email the lab manager a copy of your certificates (indicate the expiration of each certificate).
+<ul>
+<li>CITI Human Subjects Training</li>
+<li>CITI UCLA HIPAA</li>
+<li>CITI Good Clinical Practice Social and Behavioral Research</li>
+<li>CITI Researchers Information Provacy & Security (IPS)</li>
+</ul>
+
+10. Complete UCLA CANRA Training and email the lab manager the email confirming you have completed your training. Follow this link to complete your CANRA training: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. 
+
+11. Complete all necessary UC Training Modules:
+<ul>
+<li>General Compliance Briefing: UC Ethical Values and Conduct Training</li>
+<li>UC Abusive Conduct in the Workplace</li>
+<li>UC Cyber Security Awareness Fundamentals</li>
+<li>General Compliance Briefing: University of California Ethical Values and Conduct</li>
+<li>UC Preventing Harassment & Discrimination: Non-Supervisors</li>
+<li>UCLA COVID-19 Prevention</li>
+</ul>
+
+12. Ask the lab manager to be added to the lab systems:
+<ul>
+<li>Asana</li>
+<li>Slack</li>
+<li>Google calendars</li>
+<li>Box (Box browser, Box drive, Box tools)</li>
+<li>Lyft Business</li>
+<li>Mailing List</li>
+</ul>
+
+13. Obtain keys to access the coordinator office. Email tuione@psych.ucla.edu to make a request for a key to the office. 
+
+14. Reach out to Life Sciences IT (support@lifesci.ucla.edu) and set up a meeting regarding desktop set-up (Adobe Acrobat, Google chrome, Cisco VPN, connecting to the Psych printer, etc.).
+
+15. Request Psychology Building and Floor Access. Email Tyler (tuione@psych.ucla.edu) and request BruinCard access to Pritzker Hall, the Psychology Building, and floor C for freezer access. The card readers for building access are located at the side of each entrance, and inside the Pritzker elevator for level C access.
+
+16. Obtain a UCLA Zoom Account and request **Zoom Phone** access.
+<ul>
+<li>To request a UCLA Zoom account, submit an IT ticket to Life Sciences (support@lifesci.ucla.edu), include your full name, position title, and UCLA email you want to use to access Zoom.</li>
+<li>Once you receive confirmation from IT about the creation of your Zoom account, Email Tyler (tuione@psych.ucla.edu) with your UCLA email that has already been granted UCLA Zoom access and your UID to request Zoom Phone feature. </li>
+</ul>
+
+17. Email Mariam (mmoattari@lifesci.ucla.edu) to request editiing access for the CANDY Lab website. 
+
+18. Ask the lab manager and Dr. Ho to be included in the IRB protocols and create a WebIRB account (more information on account creation under Lab System Resources tab). 
+
+19. Request a REDCap account.
+<ul>
+<li>Inform the lab manager that you need a REDCap account and they will provide you with a document to complete and submit to Dr. Ho and Martin (mylai@mednet.ucla.edu, REDCap contact personnel). In the your message, also attach your CITI HIPAA certification along with your completed REDCap Access Form. For more information about which REDCap PIDs to include in your REDCap Access Form, contact Dr. Ho or the lab manager.</li>
+</ul>
+
+20. Request a DocuSign account.
+<ul>
+<li>Inform the lab manager that you need a Docusign account and email support@lifesci.ucla.edu with your name and UCLA email to request *admin access* under your DocuSign account.</li>
+</ul>
+
+21. Request a Hoffman2 account. Follow this link: https://www.hoffman2.idre.ucla.edu/Accounts/Requesting-an-account.html for more information on getting an account. Once you have reviewed the application summary and submitted the account creation form with your information, notify Dr. Ho and the lab manager.
+
+22. Create a CIA account for MRI visit bookings and scanner availability. Follow this link to set up an account: https://cia.ini.usc.edu/home/new_account.
+
+23. Create a Login.gov account for NDA-NIMH Data Uploads (more information on account creation under Lab System Resources tab). 
+
+24. Create a ClinicalTrials.gov account (if applicable). 
+
+<hr>
+
+## Volunteer Research Assistant (UCLA Students)
+
+1. Complete the on-boarding survey for RAs: https://forms.gle/WU7HZGYZDPhmxLYG6.
+
+2. Complete Required CITI Training and email the lab manager a copy of your certificates (indicate the expiration of each certificate).
+<ul>
+<li>CITI Human Subjects Training</li>
+<li>CITI UCLA HIPAA</li>
+<li>CITI Good Clinical Practice Social and Behavioral Research</li>
+<li>CITI Researchers Information Provacy & Security (IPS)</li>
+</ul>
+
+3. Complete UCLA CANRA Training and email the lab manager the email confirming you have completed your training. Follow this link to complete your CANRA training: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. 
+
+4. Read and sign Dr. Tiffany Ho's CANDY Lab manual.
+
+5. Review and sign the CANDY Lab RA Contract. 
+
+6. Ask the lab manager to be added to the lab systems:
+<ul>
+<li>Asana</li>
+<li>Slack</li>
+<li>Google calendars</li>
+<li>Box (Box browser, Box drive, Box tools)</li>
+<li>Lyft Business</li>
+<li>Mailing List</li>
+</ul>
+
+<hr>
+
+## Volunteer Research Assistant (non-UCLA Students, Post-bacc)
+
+1. Complete the volunteer on-boarding forms (provided by the lab manager).
+<ul>
+<li>
+For non-UCLA students and Post-bacc volunteers, complete and the UPAY-585 Patent Acknowledgement form in addition to your volunteer form packet.
+</li>
+<li>
+For high school applicants, make sure a parent or guardian also signs each form in the volunteer on-boarding packet. You will also need to complete the EH&S Online Course - Lab Safety Fundamental Concepts. To complete this EH&S Online Course, click on this link: https://ehs.ucla.edu/training-support/courses and select the Lab Safety Fundamental Concepts course. 
+</li>
+</ul>
+
+2. To complete UCLA trainings, you may be asked to enter your UCLA Log-on ID. Follow this link to create a temporary Log-on ID: https://accounts.iam.ucla.edu/#/ and select the option, "I do not have a 9 digit UCLA ID Number (UID)."
+
+3. Complete the on-boarding survey for RAs: https://forms.gle/WU7HZGYZDPhmxLYG6.
+
+4. Schedule and complete your Livescan Background check before your official start date and inform Dr. Ho about your scheduled date. You can schedule the Livescan background check by clicking this link: https://police.ucla.edu/services/records-unit/fingerprinting. 
+
+5. Complete Required CITI Training and email the lab manager a copy of your certificates (indicate the expiration of each certificate).
+<ul>
+<li>CITI Human Subjects Training</li>
+<li>CITI UCLA HIPAA</li>
+<li>CITI Good Clinical Practice Social and Behavioral Research</li>
+<li>CITI Researchers Information Provacy & Security (IPS)</li>
+</ul>
+
+6. Complete UCLA CANRA Training and email the lab manager the email confirming you have completed your training. Follow this link to complete your CANRA training: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. 
+
+7. Read and sign Dr. Tiffany Ho's CANDY Lab manual.
+
+8. Review and sign the CANDY Lab RA Contract.
+
+9. Ask the lab manager to be added to the lab systems:
+<ul>
+<li>Asana</li>
+<li>Slack</li>
+<li>Google calendars</li>
+<li>Box (Box browser, Box drive, Box tools)</li>
+<li>Lyft Business</li>
+<li>Mailing List</li>
+</ul>
