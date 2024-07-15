@@ -4,7 +4,7 @@ delete_merged_file: true
 edit: https://github.com/candylab-ucla/candylab-manual/edit/main/%s
 view: https://github.com/candylab-ucla/candylab-manual/blob/main/%s
 language:
-  ui:
+  ui: 
     chapter_name: "Section "
 
 rmd_files: ["index.Rmd", 

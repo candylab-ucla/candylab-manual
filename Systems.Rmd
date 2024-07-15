@@ -88,7 +88,7 @@ To access the lab email, visit the *Lab System Resources Document* for more info
 For more information, review the [Recruitment MOP](https://ucla.box.com/s/zd54dp0ly2d23q907dbz91zn917lric8)
 
 <hr>
-## Study Protocol & Data Management 
+## Study Protocol & Data Management
 
 ### WebIRB
 <ol>

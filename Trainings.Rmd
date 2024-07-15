@@ -8,7 +8,7 @@
 <li>Review TIGER R01 Timepoint visualization.</li>
 <li>Review TIGER R01 Measure visualizations.</li>
 <li>Quiz: TIGER R01 Protocol.</li>
-</ol>
+</ol> 
 
 ## Recruitment 
 <ol>

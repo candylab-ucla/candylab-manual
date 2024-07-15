@@ -9,7 +9,7 @@ pre {
   word-break: normal;
   word-wrap: normal;
 }
-pre code {
+pre code { 
   white-space: inherit;
 }
 
