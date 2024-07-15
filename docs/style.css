@@ -9,9 +9,9 @@ pre {
   word-break: normal;
   word-wrap: normal;
 }
-pre code {
+pre code { 
   white-space: inherit;
-}
+} 
 
 .book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active>a {
   color: rgb(95, 158, 160);
