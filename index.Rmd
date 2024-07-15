@@ -5,6 +5,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 ![ ](/Users/tiffany/Downloads/CANDYlogo.png){width=250px}
+<img src="https://ucla.box.com/s/iczhfuk9exabey6k2vvm2jdyg3d9nhm0" alt="Box.com" style="width:104px;height:142px;">
 <hr>
 
 ## Welcome to the CANDY Lab
