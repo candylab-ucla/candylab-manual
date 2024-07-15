@@ -4,6 +4,7 @@ site: bookdown::bookdown_site
 ---
 
 # Introduction
+<hr>
 
 ## Welcome to the CANDY Lab
 
