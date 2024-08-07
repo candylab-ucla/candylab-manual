@@ -161,6 +161,11 @@ After forwarding the necessary information to get a WebIRB account, the lab mana
 
 9. Request a Hoffman2 account (if needed). Follow this link: https://www.hoffman2.idre.ucla.edu/Accounts/Requesting-an-account.html for more information on getting an account. Once you have reviewed the application summary and submitted the account creation form with your information, notify Dr. Ho and the lab manager.
 
+10. Operator Training at CCN (Staglin Center for Cognitive Neuroscience) at UCLA
+<ul>
+<li>For more information on how to get started at CCN, click this link: https://ucla.box.com/s/szqbpltfcqd4a0xoepioifn4ecv4mxpg</li>
+</ul>
+
 <hr>
 
 ## Staff Research Associate
