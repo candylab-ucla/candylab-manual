@@ -250,7 +250,7 @@ After forwarding the necessary information to get a WebIRB account, the lab mana
 
 24. Create a ClinicalTrials.gov account (if applicable). 
 
-25. Operator Training at CCN (Staglin Center for Cognitive Neuroscience) at UCLA
+25. Operator Training at CCN (Staglin Center for Cognitive Neuroscience) @ UCLA
 <ul>
 <li>For more information on how to get started at CCN, click this link: https://ucla.box.com/s/szqbpltfcqd4a0xoepioifn4ecv4mxpg</li>
 </ul>
