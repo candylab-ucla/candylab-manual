@@ -192,6 +192,7 @@ After forwarding the necessary information to get a WebIRB account, the lab mana
 <li>CITI UCLA HIPAA</li>
 <li>CITI Good Clinical Practice Social and Behavioral Research</li>
 <li>CITI Researchers Information Provacy & Security (IPS)</li>
+<li>CITI Shipping and Transport of Regulated Biological Materials</li>
 </ul>
 
 10. Complete UCLA CANRA Training and email the lab manager the email confirming you have completed your training. Follow this link to complete your CANRA training: https://uctraining.wufoo.com/forms/q19q32qw05jndzr. 
@@ -213,44 +214,53 @@ After forwarding the necessary information to get a WebIRB account, the lab mana
 <li>Google calendars</li>
 <li>Box (Box browser, Box drive, Box tools)</li>
 <li>Lyft Business</li>
-<li>Mailing List</li>
+<li>Email Mailing List</li>
 </ul>
 
-13. Obtain keys to access the coordinator office. Email tuione@psych.ucla.edu to make a request for a key to the office. 
+13. Request to be added onto the IRB (BruinIRB)
+<ul>
+UCLA faculty members must request BruinIRB accounts for UCLA students and other researchers who do not meet UCLA Policy 900 PI Eligibility requirements. Email Dr. Ho the following information to be added onto the IRB:
+<li>Your UCLA Logon ID</li>
+<li>Your UCLA UID# (9 digit #)</li>
+<li>Your full name (First, Middle, Last)</li>
+<li>Your UCLA/Psych email address</li>
+<li>Your department and division (Department of Psychology)</li>
 
-14. Reach out to Life Sciences IT (support@lifesci.ucla.edu) and set up a meeting regarding desktop set-up (Adobe Acrobat, Google chrome, Cisco VPN, connecting to the Psych printer, etc.).
+14. Obtain keys to access the coordinator office. Email tuione@psych.ucla.edu to make a request for a key to the office. 
 
-15. Request Psychology Building and Floor Access. Email Tyler (tuione@psych.ucla.edu) and request BruinCard access to Pritzker Hall, the Psychology Building, and floor C for freezer access. The card readers for building access are located at the side of each entrance, and inside the Pritzker elevator for level C access.
+15. Reach out to Life Sciences IT (support@lifesci.ucla.edu) and set up a meeting regarding desktop set-up (Adobe Acrobat, Google chrome, Cisco VPN, connecting to the Psych printer, etc.).
 
-16. Obtain a UCLA Zoom Account and request **Zoom Phone** access.
+16. Request Psychology Building and Floor Access. Email Tyler (tuione@psych.ucla.edu) and request BruinCard access to Pritzker Hall, the Psychology Building, and floor C for freezer access. The card readers for building access are located at the side of each entrance, and inside the Pritzker elevator for level C access.
+
+17. Obtain a UCLA Zoom Account and request **Zoom Phone** access.
 <ul>
 <li>To request a UCLA Zoom account, submit an IT ticket to Life Sciences (support@lifesci.ucla.edu), include your full name, position title, and UCLA email you want to use to access Zoom.</li>
 <li>Once you receive confirmation from IT about the creation of your Zoom account, Email Tyler (tuione@psych.ucla.edu) with your UCLA email that has already been granted UCLA Zoom access and your UID to request Zoom Phone feature. </li>
 </ul>
 
-17. Email Mariam (mmoattari@lifesci.ucla.edu) to request editiing access for the CANDY Lab website. 
+18. Email Mariam (mmoattari@lifesci.ucla.edu) to request editiing access for the CANDY Lab website. 
 
-18. Ask the lab manager and Dr. Ho to be included in the IRB protocols and create a WebIRB account (more information on account creation under Lab System Resources tab). 
+19. Ask the lab manager and Dr. Ho to be included in the IRB protocols and create a WebIRB account (more information on account creation under Lab System Resources tab). 
 
-19. Request a REDCap account.
+20. Request a REDCap account.
 <ul>
 <li>Inform the lab manager that you need a REDCap account and they will provide you with a document to complete and submit to Dr. Ho and Martin (mylai@mednet.ucla.edu, REDCap contact personnel). In the your message, also attach your CITI HIPAA certification along with your completed REDCap Access Form. For more information about which REDCap PIDs to include in your REDCap Access Form, contact Dr. Ho or the lab manager.</li>
 </ul>
 
-20. Request a DocuSign account.
+21. Request a DocuSign account.
 <ul>
 <li>Inform the lab manager that you need a Docusign account and email support@lifesci.ucla.edu with your name and UCLA email to request *admin access* under your DocuSign account.</li>
 </ul>
 
-21. Request a Hoffman2 account. Follow this link: https://www.hoffman2.idre.ucla.edu/Accounts/Requesting-an-account.html for more information on getting an account. Once you have reviewed the application summary and submitted the account creation form with your information, notify Dr. Ho and the lab manager.
+22. Request a Hoffman2 account. Follow this link: https://www.hoffman2.idre.ucla.edu/Accounts/Requesting-an-account.html for more information on getting an account. Once you have reviewed the application summary and submitted the account creation form with your information, notify Dr. Ho and the lab manager.
 
-22. Create a CIA account for MRI visit bookings and scanner availability. Follow this link to set up an account: https://cia.ini.usc.edu/home/new_account.
+23. Create a CIA account for MRI visit bookings and scanner availability. Follow this link to set up an account: https://cia.ini.usc.edu/home/new_account.
 
-23. Create a Login.gov account for NDA-NIMH Data Uploads (more information on account creation under Lab System Resources tab). 
+24. Create a Login.gov account for NDA-NIMH Data Uploads (more information on account creation under Lab System Resources tab). 
 
-24. Create a ClinicalTrials.gov account (if applicable). 
+25. Create a ClinicalTrials.gov account (if applicable). 
 
-25. Operator Training at CCN (Staglin Center for Cognitive Neuroscience) @ UCLA
+26. Operator Training at CCN (Staglin Center for Cognitive Neuroscience) @ UCLA
 <ul>
 <li>For more information on how to get started at CCN, click this link: https://ucla.box.com/s/szqbpltfcqd4a0xoepioifn4ecv4mxpg</li>
 </ul>
