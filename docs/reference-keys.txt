@@ -12,8 +12,8 @@ volunteer-research-assistant-ucla-students
 volunteer-research-assistant-non-ucla-students-post-bacc
 lab-systems
 meetings
-lab-didactics-general-lab-meetings
-staff-meetings
+lab-didactics
+staff-meetings-lab-meetings
 clinical-case-meetings
 communication-system-tools
 asana
@@ -25,7 +25,7 @@ google-voice
 candy-lab-gmail
 recruitment
 study-protocol-data-management
-webirb
+bruinirb
 redcap
 hoffman
 equipment
