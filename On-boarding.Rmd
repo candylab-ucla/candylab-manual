@@ -349,7 +349,12 @@ As a new lab member, we have implemented systems and tools we use everyday for c
 
 6. Review and sign the CANDY Lab RA Contract via DocuSign. 
 
-7. (If applicable) Include your signature and initials in the Delegation of Authority Log sent via DocuSign. 
+7. Request a REDCap account (if needed).
+<ul>
+<li>Inform the lab manager that you need a REDCap account and they will provide you with the REDCap System Access Request Form and instructions to complete the form. Send the completed form and your CITI HIPAA certification to the lab manager. The lab manager will then forward the request to Martin (mylai@mednet.ucla.edu, REDCap contact personnel). Once your account has been created, you will receive an email confirmation with your Username and Temporary Password. For more information on how to complete the form, contact Dr. Ho or the lab manager.</li>
+</ul>
+
+8. (If applicable) Include your signature and initials in the Delegation of Authority Log sent via DocuSign. 
 
 <hr>
 
@@ -399,4 +404,9 @@ For high school applicants, make sure a parent or guardian also signs each form 
 
 9. Review and sign the CANDY Lab RA Contract via DocuSign. 
 
-10. (If applicable) Include your signature and initials in the Delegation of Authority Log sent via DocuSign. 
+10. Request a REDCap account (if needed).
+<ul>
+<li>Inform the lab manager that you need a REDCap account and they will provide you with the REDCap System Access Request Form and instructions to complete the form. Send the completed form and your CITI HIPAA certification to the lab manager. The lab manager will then forward the request to Martin (mylai@mednet.ucla.edu, REDCap contact personnel). Once your account has been created, you will receive an email confirmation with your Username and Temporary Password. For more information on how to complete the form, contact Dr. Ho or the lab manager.</li>
+</ul>
+
+11. (If applicable) Include your signature and initials in the Delegation of Authority Log sent via DocuSign. 
