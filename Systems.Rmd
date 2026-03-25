@@ -159,7 +159,7 @@ Clinical Case Meetings (CCM) are held to discuss participants' symptoms between 
 For more information, review the [Recruitment MOP](https://ucla.box.com/s/zd54dp0ly2d23q907dbz91zn917lric8)
 
 <hr>
-## Study Protocol & Data Management
+## Accounts for Study Protocol and Data Management
 
 ### BruinIRB
 <ol>
@@ -186,17 +186,76 @@ For more information, review the [Recruitment MOP](https://ucla.box.com/s/zd54dp
   </ol>
 </ul>
 
-### Hoffman
+### Hoffman2
 <ul>
-  <li>The lab uses Hoffman to store neuroimaging data and perform pre-processing. </li>
-  <li>To obtain a Hoffman User account:</li>
+  <li>The lab uses Hoffman2 to store neuroimaging data and perform pre-processing. </li>
+  <li>To obtain a Hoffman2 User account:</li>
   <ol>
-    <li>Visit the IDRE website at https://www.idre.ucla.edu/hoffman2/access and follow the instructions on filling out the account request form.</li>
+    <li>Visit the IDRE website at https://www.hoffman2.idre.ucla.edu/Accounts/Accounts.html#requesting-an-account and follow the instructions on filling out the account request form.</li>
     <li>Once you have reviewed the application summary and submitted the account creation form with your information, notify Dr. Ho and the lab manager to approve your account.</li>
     <li>Once your account has been approved, you will receive an email with your username and temporary password.</li>
     <li>You may then connect to the Hoffman2 cluster using a Secure Shell (SSH) client. On Windows, you can access the SSH client via GUI by downloading MobaXterm or use a program like PuTTY/Cyberduck on Mac.</li>
   </ol>
+  <li> After obtaining an account, you can access the Hoffman2 Cluster via terminal, Cyberduck, or Jupyter Notebook. For more information, review the [General Hoffman Access MOP](https://ucla.box.com/s/w6mexa71vc9ufv6gz2vwila4iyxjvg5y)</li>
 </ul>
+
+
+<hr>
+## Software for Data Access and Analysis
+
+### MATLAB
+<ul>
+  <li>MATLAB is available for free for current UCLA Students, Faculty and Staff with an ucla.edu email address.</li>
+  <li>To request a MATLAB account:</li>
+  <ul>
+    <li>Visit the [UCLA MATLAB Portal](https://www.mathworks.com/academia/tah-portal/ucla-31454052.html)</li>
+    <li>Click ‘Sign in to get started</li>
+    <li>Create a MathWorks account using your UCLA email address which must have “.ucla.edu” as part of the domain. You may be asked to log in with your UCLA account to validate your eligibility first.</li>
+    <li>Log in to your MathWorks account.</li>
+  </ul>
+  <li>To install MATLAB:</li>
+  <ul>
+    <li>Log in to your MathWorks account.</li>
+    <li>Click Install MATLAB in the top right corner.</li>
+    <li>Select the release you want to install and the operating system of your device. Follow the instructions on the screen to download the application. </li>
+  </ul>
+</ul>
+
+### FSL
+Follow instructions on this page install FSL: https://fsl.fmrib.ox.ac.uk/fsl/docs/install/index.html
+
+### FreeSurfer
+Follow instructions on this page install FreeSurfer: https://surfer.nmr.mgh.harvard.edu/fswiki/rel7downloads
+
+### R and R Studio
+<ul>
+  <li>Follow instructions on this page install R: https://cran.rstudio.com/</li>
+  <li>Follow instructions on this page install R Studio: https://posit.co/download/rstudio-desktop/</li>
+</ul>
+
+### Cyberduck
+Follow instructions on this page install Cyberduck: https://cyberduck.io/download/
+
+### Python
+Follow instructions on this page install Python: https://www.python.org/
+
+### Jupyter Notebook
+Follow instructions below to set up Jupyter Notebook. Please note that those instructions only apply to the macOS operating system. If you are using a different operating system, please see https://www.hoffman2.idre.ucla.edu/Using-H2/Connecting/Connecting.html#connecting-via-jupyter-notebook-lab for more information.
+<ul>
+  <li>Make sure Python has been installed on your device.</li>
+  <li>Open the [terminal application](https://support.apple.com/guide/terminal/welcome/mac) (you should have it automatically installed on your device already as a default application).</li>
+  <li>Type in the terminal</li> 
+  <ul>
+    <li>$ wget https://raw.githubusercontent.com/rdauria/jupyter-notebook/main/h2jupynb</li>
+    <li>OR the following if wget is not available:</li>
+    <li>$ curl -O https://raw.githubusercontent.com/rdauria/jupyter-notebook/main/h2jupynb</li>
+  </ul>
+  <li>Type the following to make the python script executable</li>
+  <ul>
+    <li>chmod u+x h2jupynb</li>
+  </ul>
+</ul>
+
 
 <hr>
 ## Equipment

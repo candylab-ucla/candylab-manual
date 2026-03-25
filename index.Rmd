@@ -45,4 +45,6 @@ Sara Wong: sara.wong@psych.ucla.edu
 <p></p>
 Cheryl Sun: cherylsun@psych.ucla.edu 
 <p></p>
-<b> CANDY Lab Email: </b> uclacandylab@ucla.edu 
+<b> CANDY Lab Email</b> 
+<p></p>
+uclacandylab@ucla.edu 
