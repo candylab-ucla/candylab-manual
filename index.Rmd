@@ -1,5 +1,5 @@
 --- 
-title: "UCLA CANDY Lab Manual"
+title: "UCLA CANDY Lab Onboarding Resources"
 site: bookdown::bookdown_site
 ---
 
